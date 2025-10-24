@@ -1,0 +1,15 @@
+{
+    "products": "inv_products",
+    "orders": "inv_purchase_orders",
+    "order_lines": "inv_purchase_order_lines",
+    "deliveries": "inv_delivery_notes",
+    "delivery_lines": "inv_delivery_note_lines",
+    "companies": "inv_companies",
+    "categories": "inv_categories",
+    "clients": "inv_clients",
+    "movements": "inv_movements",
+    "product_stock": "inv_product_stock",
+    "product_suppliers": "inv_product_suppliers",
+    "suppliers": "inv_suppliers",
+    "warehouses": "inv_warehouses"
+}

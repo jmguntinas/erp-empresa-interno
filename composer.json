@@ -1,0 +1,20 @@
+{
+    "name": "nbl-jmgc/php",
+    "autoload": {
+        "psr-4": {
+            "NblJmgc\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jmguntinas",
+            "email": "128254124+jmguntinas@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "pragmarx/google2fa": "^9.0",
+        "bacon/bacon-qr-code": "^2.0",
+        "endroid/qr-code": "^4.8",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}

@@ -1,0 +1,26 @@
+# Archivos sensibles
+config.php
+db_config.php
+.env
+*.env
+
+# Contraseñas y credenciales
+passwords.txt
+credentials/
+
+# Subidas de usuarios
+uploads/
+fotos/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Base de datos
+*.sql
+backup/
+
+# Dependencias
+vendor/
+node_modules/
